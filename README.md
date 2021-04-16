@@ -1,5 +1,4 @@
 # AI album generation
-___
 
 ## Постановка задачи
 
